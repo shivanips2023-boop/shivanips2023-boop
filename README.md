@@ -1,9 +1,50 @@
-<h1 align="center">Hi 👋, I'm P S Shivani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hi, I'm Shivani!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+💻 **Developer | Learner | Tech Enthusiast**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Welcome to my GitHub profile! I'm Shivani, passionate about learning new technologies, building projects, and improving my coding skills.
+
+## 🚀 About Me
+
+- 🌱 Currently learning new technologies
+- 💡 Interested in software development and problem solving
+- 🔨 I enjoy building projects and experimenting with new ideas
+- 📚 Always learning something new
+- 🎯 Goal: Keep growing as a developer
+
+## 🛠️ Skills & Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+- SQL
+- Git & GitHub
+- React
+
+## 📌 Projects
+
+- 🔹 Project 1 — Add your project here
+- 🔹 Project 2 — Add your project here
+- 🔹 Project 3 — Add your project here
+
+## 📊 GitHub Stats
+
+![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: Your LinkedIn
+- 📧 Email: Your Email
+- 🌐 Portfolio: Your Portfolio
+
+---
+
+### ✨ Keep learning, keep building, keep growing!
+
+Thanks for visiting my profile! 💙
